@@ -15,4 +15,4 @@ components:
     owners: ['@Shopify/themes-translations']
     paths:
       - locales/{{language}}.schema.json
-Pramod Kulkarni
+Pavan Kulkarni
